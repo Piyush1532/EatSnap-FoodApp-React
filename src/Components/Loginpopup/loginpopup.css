@@ -51,12 +51,17 @@ border-radius: 4px;
     cursor: pointer;
 } 
 
-.login-pop-condition{
+.login-popup-condition{
     display: flex;
     align-items: start;
     gap: 8px;
     margin-top: -15px;
 }
-.login-pop-condition input{
+.login-popup-condition input{
     margin-top: 5px;
+}
+.loginpop-up p span{
+    color: tomato;
+    cursor: pointer;
+    font-weight: 500;
 }
